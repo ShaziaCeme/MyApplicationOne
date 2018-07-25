@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Applicationone</string>
+    <string name="text_string">Roll the Dice</string>
+    <string name="image_text">dice_image</string>
+    <string name="edittext_one">Email</string>
+    <string name="edittext_two">Password</string>
+    <string name="Login_button">Login</string>
+
+</resources>
